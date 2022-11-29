@@ -10,9 +10,10 @@ Web server using CI and CD and get used to the general process of building and d
 
 ## Links and Resources
 
-1. [Deployed Main Branch](https://server-deployment-practice-camilla-rees.onrender.com/)
-2. [Pull Request 1](https://github.com/camillarees/server-deployement-practice/pull/1)
-3. [Pull Request 2](https://github.com/camillarees/server-deployement-practice/pull/2)
+1. [Deployed Main Branch](https://basic-express-server.onrender.com/)
+
+2. [Pull Request 1](https://github.com/camillarees/basic-express-server/pull/1)
+
 
 ## Setup
 
